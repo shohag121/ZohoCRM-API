@@ -1,6 +1,7 @@
 <?php
-
+// Zoho CRM API Required Configuration
 return $conf = array(
+    'apiBaseUrl' => 'www.zohoapis.com',
     'client_id'=>'',
     'client_secret'=>'',
     'redirect_uri'=>'',

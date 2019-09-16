@@ -5,6 +5,8 @@
  */
 
  // file includes
+use zcrmsdk\crm\crud\ZCRMModule;
+
 include_once 'includes.php';
 
 
